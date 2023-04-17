@@ -1,1 +1,2 @@
-alterando projeto com nova branch
+alterando projeto
+conflito
